@@ -1,4 +1,7 @@
-# 🔒 LB1004 - Secure CI/CD Pipeline Transformation  
+# 🔒Secure CI/CD Pipeline Transformation  
+
+![RedHatSummit2](https://github.com/user-attachments/assets/b70cafa5-1bda-4ac1-b883-8e12430afc69)
+
 **From Development to Deployment: Securing the Software Supply Chain with Jenkins & Red Hat Advanced Developer Suite (RHADS)**
 
 ## 📌 Overview
@@ -9,7 +12,6 @@ This project demonstrates how to transform a **non-secure CI/CD pipeline** into 
 - **Security Tools**: Sigstore/Cosign, TUF, SonarQube, Red Hat Advanced Cluster Security (ACS), and Trusted Profile Analyzer (TPA).
 
 The workshop follows a narrative journey, showcasing roles of **developers, QA engineers, and security engineers**, highlighting challenges of insecure practices and how RHADS addresses them with guardrails and automation.
-<img width="2523" height="1323" alt="image" src="https://github.com/user-attachments/assets/41c53d85-13bb-495f-aeef-364b76a9aa1c" />
 
 ---
 
