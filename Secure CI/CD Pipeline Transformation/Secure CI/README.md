@@ -9,6 +9,7 @@ This project demonstrates how to transform a **non-secure CI/CD pipeline** into 
 - **Security Tools**: Sigstore/Cosign, TUF, SonarQube, Red Hat Advanced Cluster Security (ACS), and Trusted Profile Analyzer (TPA).
 
 The workshop follows a narrative journey, showcasing roles of **developers, QA engineers, and security engineers**, highlighting challenges of insecure practices and how RHADS addresses them with guardrails and automation.
+<img width="2523" height="1323" alt="image" src="https://github.com/user-attachments/assets/41c53d85-13bb-495f-aeef-364b76a9aa1c" />
 
 ---
 
@@ -73,6 +74,8 @@ The workshop follows a narrative journey, showcasing roles of **developers, QA e
    - Demonstration of **secure build and deploy pipeline** with RHADS.  
 
 ---
+<img width="2491" height="1240" alt="image" src="https://github.com/user-attachments/assets/aaf6879a-aba4-4cd7-a7af-5f918652d6f3" />
+<img width="2233" height="1339" alt="image" src="https://github.com/user-attachments/assets/ecdd973f-ce68-42fe-a147-35e5814061cd" />
 
 ## 🏆 Outcome
 - Established a **Trusted Software Supply Chain** aligned with **SLSA Level 3** standards.  
@@ -80,21 +83,24 @@ The workshop follows a narrative journey, showcasing roles of **developers, QA e
 - Enabled a pipeline that **detects, blocks, and remediates vulnerabilities automatically**.  
 
 ---
+<img width="622" height="458" alt="image" src="https://github.com/user-attachments/assets/ec576211-af76-477e-ba7f-b5ac662df982" />
 
 ## 📖 Bonus Lab
 👉 *Building a Trusted Pipeline with OpenShift Pipelines and Tekton* (alternative to Jenkins).  
 
 ---
+<img width="2830" height="1714" alt="image" src="https://github.com/user-attachments/assets/50f73433-f293-4a4b-bdff-5d86a51709e8" />
+<img width="2525" height="1348" alt="image" src="https://github.com/user-attachments/assets/d86641d7-c935-4248-b29f-ad579e21251a" />
 
 ## 👨‍💻 Authors
 - Red Hat Workshop Team  
 - Contributions & hands-on implementation by **[Your Name]**
 
 ---
+<img width="2506" height="1240" alt="image" src="https://github.com/user-attachments/assets/eb9e4e2f-daae-4709-865d-78c8fdce47af" />
 
 ## 🔗 References
 - [Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 - [Sigstore & Cosign](https://sigstore.dev)
 - [SonarQube](https://www.sonarqube.org)
 - [SLSA Framework](https://slsa.dev)
-
