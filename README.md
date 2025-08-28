@@ -3,6 +3,7 @@
 
 Welcome to my repository for **Red Hat Summit 2025**!  
 This repo contains hands-on lab work and guided exercises from the summit, showcasing **secure software supply chains** and **AI at scale with OpenShift AI**.  
+![RedHatSummit](https://github.com/user-attachments/assets/1364664b-46a9-4ab8-91df-33b2d5673844)
 
 ---
 
