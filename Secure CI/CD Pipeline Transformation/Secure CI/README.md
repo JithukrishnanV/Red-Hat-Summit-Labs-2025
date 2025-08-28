@@ -85,7 +85,7 @@ The workshop follows a narrative journey, showcasing roles of **developers, QA e
 - Enabled a pipeline that **detects, blocks, and remediates vulnerabilities automatically**.  
 
 ---
-<img width="622" height="458" alt="image" src="https://github.com/user-attachments/assets/ec576211-af76-477e-ba7f-b5ac662df982" />
+
 
 ## 📖 Bonus Lab
 👉 *Building a Trusted Pipeline with OpenShift Pipelines and Tekton* (alternative to Jenkins).  
