@@ -4,6 +4,7 @@ This repository provides **hands-on labs** for learning how to securely deploy, 
 The labs are designed to help different roles in your organization — from platform engineers to developers and decision makers — adopt AI at scale in a structured and cost-efficient way.
 
 ---
+![RedHatSummit1](https://github.com/user-attachments/assets/1db6d866-694e-4391-b35a-4b59b6224e6d)
 
 ## 📌 What You’ll Learn
 
